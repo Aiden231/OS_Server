@@ -1,6 +1,7 @@
 # OS Homework Github
 
 실습환경 : AWS EC2
+
 사용언어 : C
 
 운영체제 실습 리스트
